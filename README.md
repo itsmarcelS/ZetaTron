@@ -1,4 +1,4 @@
-# ZetaTron# ZetaTron — v7.0.0
+# ZetaTron — v7.0.0
 
 **Experimental autonomous agent software**
 *Windows & macOS · use at your own risk*
