@@ -38,12 +38,12 @@ ZetaTron is a **self-directed AI agent**. It sets its own goals, works across yo
 
 ## Install
 
-Download the release asset for your platform:
+Grab the latest release: **[ZetaTron 7.0.0 — Release 2026.9.6](https://github.com/itsmarcelS/ZetaTron/releases/tag/2026.9.6)**
 
-- **Windows:** `ZetaTron-ZD-v7.0.0.exe` (installer)
-- **macOS:** `ZetaTron-ZD-v7.0.0.dmg`
+- **macOS (Apple Silicon):** [`ZetaTron-7.0.0-arm64.dmg`](https://github.com/itsmarcelS/ZetaTron/releases/download/2026.9.6/ZetaTron-7.0.0-arm64.dmg) — ~202 MB
+- **Windows:** [`ZetaTron.Setup.7.0.0.exe`](https://github.com/itsmarcelS/ZetaTron/releases/download/2026.9.6/ZetaTron.Setup.7.0.0.exe) — ~137 MB (installer)
 
-> Note: the Windows installer is sizeable (~133 MB) — see the asset files under **Releases** for the exact download.
+> Note: the Windows installer is sizeable (~137 MB) — see the asset files under **Releases** for the exact download.
 
 On first run you'll be asked to **read and accept the six terms** (below). Windows users are asked to agree **twice** — that is intentional: the first acceptance governs installation, the second governs continued use.
 
